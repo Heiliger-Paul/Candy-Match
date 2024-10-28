@@ -1,7 +1,7 @@
 # Improve Match 3 Game
 
 ## About the Project
-This **Improve Match 3 Game** project is a Unity-based challenge focused on enhancing the traditional Match 3 gameplay. The goal is to implement additional features, including special boosters, a health system, a coin system, and progressively challenging levels to increase player engagement. This project is a creative exercise in game design and serves as an assignment to improve gameplay mechanics and user experience.
+This **Improve Match 3 Game** project is a Unity-based challenge focused on enhancing the traditional Match 3 gameplay. The goal is to implement additional features, including special boosters, a health system, a coin system, and progressively challenging levels to increase player engagement. This project is a creative exercise in game design and serves as an assignment to improve gameplay mechanics and user experience.This project serves as part of the Maliyo Game Week 9 assignment.
 
 ## Objectives
 - **Implement Special Boosters**: Add unique boosters to help players clear difficult levels or achieve higher scores.
